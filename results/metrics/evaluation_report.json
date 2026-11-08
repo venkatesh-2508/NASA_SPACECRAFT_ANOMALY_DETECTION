@@ -1,0 +1,120 @@
+{
+  "overall": {
+    "TP": 0,
+    "FP": 2,
+    "FN": 4,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 2,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "P-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-1",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "SMAP": {
+    "TP": 0,
+    "FP": 2,
+    "FN": 3,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 2,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "P-1",
+        "mission": "SMAP"
+      }
+    ]
+  },
+  "MSL": {
+    "TP": 0,
+    "FP": 0,
+    "FN": 1,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-1",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "point": null,
+  "contextual": null,
+  "[contextual, contextual, contextual]": {
+    "TP": 0,
+    "FP": 2,
+    "FN": 3,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 2,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "P-1",
+        "mission": "SMAP"
+      }
+    ]
+  },
+  "[point]": {},
+  "[contextual, contextual]": {},
+  "[contextual]": {
+    "TP": 0,
+    "FP": 0,
+    "FN": 1,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-1",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "[point, point, point]": {},
+  "[point, contextual]": {},
+  "[point, point]": {},
+  "[contextual, point, contextual]": {}
+}

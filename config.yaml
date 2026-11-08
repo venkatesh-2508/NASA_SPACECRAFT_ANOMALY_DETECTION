@@ -1,0 +1,65 @@
+# NASA Spacecraft Anomaly Detection - Configuration
+
+project:
+  name: "NASA Spacecraft Anomaly Detection"
+  version: "1.0.0"
+  description: "Intelligent Spacecraft Health Monitoring Using LSTM Neural Networks"
+
+paths:
+  data_dir: "data"
+  train_dir: "data/train"
+  test_dir: "data/test"
+  labels_file: "data/labeled_anomalies.csv"
+  models_dir: "models/checkpoints"
+  results_dir: "results"
+  metrics_dir: "results/metrics"
+  plots_dir: "results/plots"
+  predictions_dir: "results/predictions"
+
+preprocessing:
+  sequence_length: 250
+  validation_split: 0.2
+  random_seed: 42
+
+model:
+  hidden_size: 80
+  num_layers: 2
+  dropout: 0.3
+  batch_size: 128
+  learning_rate: 0.001
+  max_epochs: 20
+  patience: 4
+  min_delta: 0.0001
+
+detection:
+  smoothing_span: 30
+  z_score_min: 2.5
+  z_score_max: 10.0
+  z_score_step: 0.5
+  error_buffer: 100
+  min_percent_change: 0.13
+
+baseline:
+  z_threshold: 3.0
+
+evaluation:
+  overlap_method: "any"
+
+missions:
+  SMAP:
+    description: "Soil Moisture Active Passive satellite"
+    launch: "2015-01-31"
+    orbit: "Low Earth Orbit (685 km)"
+    purpose: "Measuring Earth soil moisture and freeze/thaw state"
+  MSL:
+    description: "Mars Science Laboratory (Curiosity rover)"
+    launch: "2011-11-26"
+    landing: "2012-08-06"
+    location: "Gale Crater, Mars"
+    purpose: "Investigating Mars habitability and geology"
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "results/app.log"
+

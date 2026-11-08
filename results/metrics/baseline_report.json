@@ -1,0 +1,2504 @@
+{
+  "overall": {
+    "TP": 40,
+    "FP": 984,
+    "FN": 64,
+    "precision": 0.0391,
+    "recall": 0.3846,
+    "f1": 0.0709,
+    "per_channel": [
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "A-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 467,
+        "FN": 0,
+        "precision": 0.0021,
+        "recall": 1.0,
+        "f1": 0.0043,
+        "channel_id": "A-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "A-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 3,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "B-1",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "C-1",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "C-2",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 1,
+        "FP": 5,
+        "FN": 0,
+        "precision": 0.1667,
+        "recall": 1.0,
+        "f1": 0.2857,
+        "channel_id": "D-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-12",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-13",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-14",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-15",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-16",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-10",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-12",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-13",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "E-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 6,
+        "FN": 0,
+        "precision": 0.1429,
+        "recall": 1.0,
+        "f1": 0.25,
+        "channel_id": "E-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 159,
+        "FN": 0,
+        "precision": 0.0063,
+        "recall": 1.0,
+        "f1": 0.0124,
+        "channel_id": "F-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 50,
+        "FN": 0,
+        "precision": 0.0196,
+        "recall": 1.0,
+        "f1": 0.0385,
+        "channel_id": "F-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "F-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 7,
+        "FN": 0,
+        "precision": 0.125,
+        "recall": 1.0,
+        "f1": 0.2222,
+        "channel_id": "F-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "F-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "F-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 11,
+        "FN": 0,
+        "precision": 0.0833,
+        "recall": 1.0,
+        "f1": 0.1538,
+        "channel_id": "F-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "G-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "G-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 3,
+        "FP": 34,
+        "FN": 0,
+        "precision": 0.0811,
+        "recall": 1.0,
+        "f1": 0.15,
+        "channel_id": "G-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-1",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 7,
+        "FN": 0,
+        "precision": 0.125,
+        "recall": 1.0,
+        "f1": 0.2222,
+        "channel_id": "M-2",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-3",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 4,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-4",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-5",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "M-6",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 1,
+        "FN": 0,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6667,
+        "channel_id": "M-7",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 37,
+        "FN": 1,
+        "precision": 0.0513,
+        "recall": 0.6667,
+        "f1": 0.0952,
+        "channel_id": "P-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 6,
+        "FN": 0,
+        "precision": 0.1429,
+        "recall": 1.0,
+        "f1": 0.25,
+        "channel_id": "P-10",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 2,
+        "FP": 33,
+        "FN": 0,
+        "precision": 0.0571,
+        "recall": 1.0,
+        "f1": 0.1081,
+        "channel_id": "P-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "P-14",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 18,
+        "FN": 0,
+        "precision": 0.0526,
+        "recall": 1.0,
+        "f1": 0.1,
+        "channel_id": "P-15",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 106,
+        "FN": 0,
+        "precision": 0.0093,
+        "recall": 1.0,
+        "f1": 0.0185,
+        "channel_id": "P-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "P-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "P-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 5,
+        "FN": 0,
+        "precision": 0.1667,
+        "recall": 1.0,
+        "f1": 0.2857,
+        "channel_id": "P-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "R-1",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "S-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "S-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-1",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-12",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-13",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-2",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "T-3",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "T-4",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-5",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 19,
+        "FN": 0,
+        "precision": 0.0952,
+        "recall": 1.0,
+        "f1": 0.1739,
+        "channel_id": "T-8",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 3,
+        "FN": 0,
+        "precision": 0.4,
+        "recall": 1.0,
+        "f1": 0.5714,
+        "channel_id": "T-9",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "SMAP": {
+    "TP": 29,
+    "FP": 949,
+    "FN": 48,
+    "precision": 0.0297,
+    "recall": 0.3766,
+    "f1": 0.055,
+    "per_channel": [
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "A-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 467,
+        "FN": 0,
+        "precision": 0.0021,
+        "recall": 1.0,
+        "f1": 0.0043,
+        "channel_id": "A-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "A-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 3,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 5,
+        "FN": 0,
+        "precision": 0.1667,
+        "recall": 1.0,
+        "f1": 0.2857,
+        "channel_id": "D-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-12",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-13",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-14",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-15",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-16",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-10",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-12",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-13",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "E-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 6,
+        "FN": 0,
+        "precision": 0.1429,
+        "recall": 1.0,
+        "f1": 0.25,
+        "channel_id": "E-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 159,
+        "FN": 0,
+        "precision": 0.0063,
+        "recall": 1.0,
+        "f1": 0.0124,
+        "channel_id": "F-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 50,
+        "FN": 0,
+        "precision": 0.0196,
+        "recall": 1.0,
+        "f1": 0.0385,
+        "channel_id": "F-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "F-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 7,
+        "FN": 0,
+        "precision": 0.125,
+        "recall": 1.0,
+        "f1": 0.2222,
+        "channel_id": "F-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "F-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "F-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 11,
+        "FN": 0,
+        "precision": 0.0833,
+        "recall": 1.0,
+        "f1": 0.1538,
+        "channel_id": "F-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "G-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "G-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 3,
+        "FP": 34,
+        "FN": 0,
+        "precision": 0.0811,
+        "recall": 1.0,
+        "f1": 0.15,
+        "channel_id": "G-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 2,
+        "FP": 37,
+        "FN": 1,
+        "precision": 0.0513,
+        "recall": 0.6667,
+        "f1": 0.0952,
+        "channel_id": "P-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 6,
+        "FN": 0,
+        "precision": 0.1429,
+        "recall": 1.0,
+        "f1": 0.25,
+        "channel_id": "P-10",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 2,
+        "FP": 33,
+        "FN": 0,
+        "precision": 0.0571,
+        "recall": 1.0,
+        "f1": 0.1081,
+        "channel_id": "P-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "P-14",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 18,
+        "FN": 0,
+        "precision": 0.0526,
+        "recall": 1.0,
+        "f1": 0.1,
+        "channel_id": "P-15",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 106,
+        "FN": 0,
+        "precision": 0.0093,
+        "recall": 1.0,
+        "f1": 0.0185,
+        "channel_id": "P-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "P-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "P-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 5,
+        "FN": 0,
+        "precision": 0.1667,
+        "recall": 1.0,
+        "f1": 0.2857,
+        "channel_id": "P-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "S-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "S-2",
+        "mission": "SMAP"
+      }
+    ]
+  },
+  "MSL": {
+    "TP": 10,
+    "FP": 34,
+    "FN": 11,
+    "precision": 0.2273,
+    "recall": 0.4762,
+    "f1": 0.3077,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-1",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 7,
+        "FN": 0,
+        "precision": 0.125,
+        "recall": 1.0,
+        "f1": 0.2222,
+        "channel_id": "M-2",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-3",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 4,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-4",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-5",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "M-6",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 1,
+        "FN": 0,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6667,
+        "channel_id": "M-7",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-1",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-12",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-13",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-2",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "T-3",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "T-4",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-5",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 19,
+        "FN": 0,
+        "precision": 0.0952,
+        "recall": 1.0,
+        "f1": 0.1739,
+        "channel_id": "T-8",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 3,
+        "FN": 0,
+        "precision": 0.4,
+        "recall": 1.0,
+        "f1": 0.5714,
+        "channel_id": "T-9",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "point": null,
+  "contextual": null,
+  "[contextual, contextual, contextual]": {
+    "TP": 2,
+    "FP": 37,
+    "FN": 7,
+    "precision": 0.0513,
+    "recall": 0.2222,
+    "f1": 0.0833,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-13",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "F-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 2,
+        "FP": 37,
+        "FN": 1,
+        "precision": 0.0513,
+        "recall": 0.6667,
+        "f1": 0.0952,
+        "channel_id": "P-1",
+        "mission": "SMAP"
+      }
+    ]
+  },
+  "[point]": {
+    "TP": 24,
+    "FP": 826,
+    "FN": 22,
+    "precision": 0.0282,
+    "recall": 0.5217,
+    "f1": 0.0536,
+    "per_channel": [
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "A-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 467,
+        "FN": 0,
+        "precision": 0.0021,
+        "recall": 1.0,
+        "f1": 0.0043,
+        "channel_id": "A-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "A-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "B-1",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 1,
+        "FP": 5,
+        "FN": 0,
+        "precision": 0.1667,
+        "recall": 1.0,
+        "f1": 0.2857,
+        "channel_id": "D-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-12",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-13",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-15",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "D-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "E-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 6,
+        "FN": 0,
+        "precision": 0.1429,
+        "recall": 1.0,
+        "f1": 0.25,
+        "channel_id": "E-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 159,
+        "FN": 0,
+        "precision": 0.0063,
+        "recall": 1.0,
+        "f1": 0.0124,
+        "channel_id": "F-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 50,
+        "FN": 0,
+        "precision": 0.0196,
+        "recall": 1.0,
+        "f1": 0.0385,
+        "channel_id": "F-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 7,
+        "FN": 0,
+        "precision": 0.125,
+        "recall": 1.0,
+        "f1": 0.2222,
+        "channel_id": "F-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "F-5",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "G-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "G-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-6",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "M-6",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 1,
+        "FN": 0,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6667,
+        "channel_id": "M-7",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 6,
+        "FN": 0,
+        "precision": 0.1429,
+        "recall": 1.0,
+        "f1": 0.25,
+        "channel_id": "P-10",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "P-14",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 18,
+        "FN": 0,
+        "precision": 0.0526,
+        "recall": 1.0,
+        "f1": 0.1,
+        "channel_id": "P-15",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 106,
+        "FN": 0,
+        "precision": 0.0093,
+        "recall": 1.0,
+        "f1": 0.0185,
+        "channel_id": "P-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "P-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "R-1",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "S-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "S-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-2",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "T-4",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-5",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "[contextual, contextual]": {
+    "TP": 2,
+    "FP": 19,
+    "FN": 10,
+    "precision": 0.0952,
+    "recall": 0.1667,
+    "f1": 0.1212,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-10",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "E-12",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-13",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 19,
+        "FN": 0,
+        "precision": 0.0952,
+        "recall": 1.0,
+        "f1": 0.1739,
+        "channel_id": "T-8",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "[contextual]": {
+    "TP": 3,
+    "FP": 31,
+    "FN": 14,
+    "precision": 0.0882,
+    "recall": 0.1765,
+    "f1": 0.1176,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-2",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-4",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 3,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "A-9",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-16",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "F-3",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 1,
+        "FP": 11,
+        "FN": 0,
+        "precision": 0.0833,
+        "recall": 1.0,
+        "f1": 0.1538,
+        "channel_id": "F-8",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "G-1",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-1",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 7,
+        "FN": 0,
+        "precision": 0.125,
+        "recall": 1.0,
+        "f1": 0.2222,
+        "channel_id": "M-2",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-3",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 4,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-4",
+        "mission": "MSL"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "M-5",
+        "mission": "MSL"
+      },
+      {
+        "TP": 1,
+        "FP": 5,
+        "FN": 0,
+        "precision": 0.1667,
+        "recall": 1.0,
+        "f1": 0.2857,
+        "channel_id": "P-7",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-12",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "[point, point, point]": {
+    "TP": 0,
+    "FP": 0,
+    "FN": 3,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "P-4",
+        "mission": "SMAP"
+      }
+    ]
+  },
+  "[point, contextual]": {
+    "TP": 0,
+    "FP": 1,
+    "FN": 6,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 1,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "C-1",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "C-2",
+        "mission": "UNKNOWN"
+      },
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "T-1",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "[point, point]": {
+    "TP": 6,
+    "FP": 36,
+    "FN": 2,
+    "precision": 0.1429,
+    "recall": 0.75,
+    "f1": 0.24,
+    "per_channel": [
+      {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "channel_id": "D-14",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 2,
+        "FP": 33,
+        "FN": 0,
+        "precision": 0.0571,
+        "recall": 1.0,
+        "f1": 0.1081,
+        "channel_id": "P-11",
+        "mission": "SMAP"
+      },
+      {
+        "TP": 2,
+        "FP": 0,
+        "FN": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "channel_id": "T-3",
+        "mission": "MSL"
+      },
+      {
+        "TP": 2,
+        "FP": 3,
+        "FN": 0,
+        "precision": 0.4,
+        "recall": 1.0,
+        "f1": 0.5714,
+        "channel_id": "T-9",
+        "mission": "MSL"
+      }
+    ]
+  },
+  "[contextual, point, contextual]": {
+    "TP": 3,
+    "FP": 34,
+    "FN": 0,
+    "precision": 0.0811,
+    "recall": 1.0,
+    "f1": 0.15,
+    "per_channel": [
+      {
+        "TP": 3,
+        "FP": 34,
+        "FN": 0,
+        "precision": 0.0811,
+        "recall": 1.0,
+        "f1": 0.15,
+        "channel_id": "G-7",
+        "mission": "SMAP"
+      }
+    ]
+  }
+}

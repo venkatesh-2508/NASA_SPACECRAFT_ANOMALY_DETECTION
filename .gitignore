@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+env/
+.idea/
+.vscode/settings.json
+*.iml
+.DS_Store
+Thumbs.db
+
+# Data (large files — download separately)
+data/train/
+data/test/
+
+# Model weights (large — save locally)
+models/checkpoints/*.pt
+models/checkpoints/*.pkl
+
+# Results (auto-generated)
+results/predictions/*.json
+
+# Logs
+results/*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
