@@ -16,10 +16,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Data (large files — download separately)
-data/train/
-data/test/
-
 # Model weights (large — save locally)
 models/checkpoints/*.pt
 models/checkpoints/*.pkl
